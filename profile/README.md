@@ -1,12 +1,13 @@
-## Hi there 👋
+# Welcome to ITlusions
 
-<!--
+At itlusions, we focus on building modern, secure, and scalable platforms based on the Cloud Native Computing Foundation (CNCF) landscape. Leveraging technologies such as Kubernetes, Prometheus, Envoy, Helm, and more, we deliver solutions that empower organizations to fully embrace cloud-native infrastructure and automation.
 
-**Here are some ideas to get you started:**
+Explore the CNCF Landscape to see the ecosystem we work with: [https://landscape.cncf.io/](https://landscape.cncf.io/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our expertise covers data engineering, artificial intelligence, and excellent software development practices — all aimed at creating efficient, reliable, and future-proof IT platforms.
+
+Explore our open source projects, contribute, or collaborate with us to help shape the future of cloud-native technology.
+
+[Visit our website](https://www.itlusions.com) | [See our repositories](https://github.com/itlusions?tab=repositories)
+
+Contact Niels Weistra: [n.weistra@itlusions.com](mailto:n.weistra@itlusions.com)

@@ -1,6 +1,6 @@
 # Welcome to ITlusions
 
-At itlusions, we focus on building modern, secure, and scalable platforms based on the Cloud Native Computing Foundation (CNCF) landscape. Leveraging technologies such as Kubernetes, Prometheus, Envoy, Helm, and more, we deliver solutions that empower organizations to fully embrace cloud-native infrastructure and automation.
+At ITlusions, we focus on building modern, secure, and scalable platforms based on the Cloud Native Computing Foundation (CNCF) landscape. Leveraging technologies such as Kubernetes, Prometheus, Envoy, Helm, and more, we deliver solutions that empower organizations to fully embrace cloud-native infrastructure and automation.
 
 Explore the CNCF Landscape to see the ecosystem we work with: [https://landscape.cncf.io/](https://landscape.cncf.io/)
 
